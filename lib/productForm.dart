@@ -213,7 +213,7 @@ class _CreateProductPageState extends State<CreateProductPage> {
               height: 4,
             ),
             TextField(
-              controller: mrpController,p
+              controller: mrpController,
               decoration: InputDecoration(
                 labelText: "Enter mrp",
                 border: OutlineInputBorder(
